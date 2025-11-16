@@ -7,7 +7,7 @@ to OpenInference format, updated for the new OpenTelemetry GenAI semantic conven
 
 import json
 import logging
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Dict, List, Optional
 from datetime import datetime
 
 from opentelemetry.sdk.trace import SpanProcessor
