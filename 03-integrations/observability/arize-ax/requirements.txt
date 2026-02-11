@@ -1,0 +1,17 @@
+# AgentCore Runtime SDK
+bedrock-agentcore
+
+# Agent framework with OpenTelemetry support
+strands-agents[otel]
+strands-agents-tools
+
+# AWS SDK
+boto3
+
+# OpenTelemetry exporters for Arize AX (gRPC)
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-grpc
+
+# Agent tool dependencies
+pytz
